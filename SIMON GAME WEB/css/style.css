@@ -1,0 +1,78 @@
+body {
+  background-color: aqua;
+}
+
+.pozadiclassic {
+  background-color: aqua;
+}
+
+.pozadigameover {
+  background-color: red;
+}   
+
+.nadpis {
+  text-align: center;
+  color: black;
+  font-family: "Dancing Script", serif;
+  font-size: 100px;
+  font-weight: 400px;
+  margin: 30px;
+}
+
+.nazevhry {
+  text-align: center;
+  color: darkolivegreen;
+  font-size: 50px;
+  font-family: Copperplate, "Copperplate Gothic Light", sans-serif;
+}
+
+.instrukce {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  font-family: "Dancing Script", serif;
+  font-weight: 400px;
+  margin: 30px;
+}
+
+footer {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  font-family: "Dancing Script", serif;
+  font-weight: 400px;
+  margin: 30px;
+}
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.okraj {
+  border-radius: 20px;
+  border: 5px solid black;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+}
+
+.redbox {
+  background-color: red;
+  display: inline-block;
+}
+
+.bluebox {
+  background-color: blue;
+  display: inline-block;
+}
+
+.greenbox {
+  background-color: rgb(59, 237, 59);
+  display: inline-block;
+}
+.yellowbox {
+  background-color: yellow;
+  display: inline-block;
+}
